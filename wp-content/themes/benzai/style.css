@@ -919,7 +919,7 @@ hr {
 
 /* Back to top */
 #scrollUp {
-    display: inline-block;
+    display: none;
     background-image: url("assets/img/scrollUp.svg");
     width: 50px;
     height: 50px;

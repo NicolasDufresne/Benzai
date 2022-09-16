@@ -187,6 +187,16 @@
         }, 500); //time of loading
     });
 </script>
+
+<script>
+const el = document.getElementById('scrollUp');
+
+setTimeout(() => {
+el.style.visibility = 'visible';
+el.style.display = 'block';
+}, 900);
+</script>
+
 </body>
 
 </html>
